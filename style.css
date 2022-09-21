@@ -292,7 +292,7 @@ text-underline-offset: 8px;
 }
 #navbar__logo {
   position: relative;
-  max-width: 200px;
+  max-width: 180px;
   margin-top:40px;
   margin-right: 440px;
   
@@ -420,9 +420,9 @@ span {
 }
 /* FILTER NAV */
 section{
-  padding: 20px;
+  padding: 10px;
   width: 100%;
-  display: flex;
+  display: grid;
   justify-content: left;
   align-items: left;
   flex-direction: column;
