@@ -281,7 +281,7 @@ text-underline-offset: 8px;
 }
 
 #nav-bar {
-  position: fixed; 
+  position: relative; 
   width: 100%; /* Full width */
   transition: top 0.8s;
   height: 60px;
