@@ -1,0 +1,21 @@
+[
+    {
+    "image": "Assets/testimonial_face01.png",
+    "userName":"Johnny B. Goode",
+    "message": "Advice and support from DigiSpan was second to none. Always willing to help and offer advice and solutions. A very good and rapid understanding of our requirements was key to this.",
+    "title":"CEO, Getting Things Done"
+    } ,
+    {
+        "image": "Assets/testimonial_face02.png",
+        "userName":"Paul Simon",
+        "message": "Advice and support from DigiSpan was second to none. Always willing to help and offer advice and solutions. A very good and rapid understanding of our requirements was key to this.",
+        "title":"Founder, MegaCorp"
+    },
+    {
+        "image": "Assets/testimonial_face03.png",
+        "userName":"Mary Jane",
+        "message": "Advice and support from DigiSpan was second to none. Always willing to help and offer advice and solutions. A very good and rapid understanding of our requirements was key to this.",
+        "title":"CEO, Design Matters"
+    }
+
+]
