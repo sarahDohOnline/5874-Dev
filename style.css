@@ -362,7 +362,9 @@ text-underline-offset: 8px;
   background-color: #f1f1f1;
   flex: 20%;
   padding-top: 100px;
-
+  align-items: center;
+  list-style: none;
+  text-align: left;
 }
 .service__btn{
 display: block;
