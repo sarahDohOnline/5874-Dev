@@ -9,9 +9,7 @@
   top: 0;
   left: 0;
   background: url('/Assets/Spaniel01_gradient.png');
-  background-size: cover;
-  background-position-x: 20%;
-  background-position-y: 20%;
+  background-size: auto;
   width: 100%;
   height: 100vh;
   z-index: -1;
