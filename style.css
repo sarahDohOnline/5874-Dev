@@ -191,10 +191,10 @@ text-underline-offset: 8px;
   background-color: transparent;
   margin-top: 150px;
   max-width: 400px;
-  padding-left: 10px;
+  padding-left: 40px;
 }
 .hero-content h1{
-  font-size: 40px;
+  font-size: 36px;
   color: #000;
   font-family: itc-avant-garde-gothic-pro,sans-serif;
   font-weight: 380;
@@ -254,7 +254,6 @@ text-underline-offset: 8px;
   overflow: hidden;
   left: 0;
   width: 100%;
-  margin-top: 150px;
   max-height: fit-content;
   padding: 60px;
 
